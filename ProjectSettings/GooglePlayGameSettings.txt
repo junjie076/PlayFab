@@ -1,0 +1,10 @@
+lastUpgrade=00936
+proj.pluginVersion=0.9.36
+proj.AppId=185314558983
+and.BundleId=com.Gameka.PrototypeTest
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3cresources%3e%0d%0a%3cstring+name%3d%22app_id%22%3e185314558983%3c%2fstring%3e%0d%0a%3cstring+name%3d%22package_name%22%3ecom.Gameka.PrototypeTest%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=185314558983-ukufd0j410cpu8jf6555rev3td3ai7gh.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true

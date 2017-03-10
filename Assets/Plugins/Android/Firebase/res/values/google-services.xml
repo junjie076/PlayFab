@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://lukenns-prototype.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">185314558983</string>
+  <string name="google_storage_bucket" translatable="false">lukenns-prototype.appspot.com</string>
+  <string name="google_api_key" translatable="false">AIzaSyBNhUQ669SPNFfvwnuCjNlmhlmK07kS1Yc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBNhUQ669SPNFfvwnuCjNlmhlmK07kS1Yc</string>
+  <string name="google_app_id" translatable="false">1:185314558983:android:df7a62bbd0a51935</string>
+  <string name="default_web_client_id" translatable="false">185314558983-69bf7pqdm74prsskommhovi531rmbq0v.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">185314558983-ukufd0j410cpu8jf6555rev3td3ai7gh.apps.googleusercontent.com</string>
+</resources>

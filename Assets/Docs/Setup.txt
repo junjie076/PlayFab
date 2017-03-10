@@ -1,0 +1,54 @@
+PLAYFAB PROTOTYPE SETUP
+
+Unity 
+1.	Create unity project
+	- Create folders - scenes, scripts
+2. Switch platform to Android
+3. Set Player Settings 
+	- Company name
+	- Bundle identifier, version
+	- API level 15
+4. Create keystore and key
+5. Install Plugins
+	- GPGS SDK
+	- Playfab SDK
+	- PlayFab EdEx
+
+PlayFab
+1. Create New Game
+
+Google API Setup
+1. Create project
+2. Credentials > OAuth Consent Screen
+3. Credentials > OAuth Client ID
+	- PlayFab project ID
+	- https://oauth.playfab.com/oauth2/google 
+
+Unity
+1. Login to PlayFab
+2. Save scene
+3. Windows > GPGS > Setup > Android setup
+4. Build Settings > Add open scene
+5. Build APK
+6. Activate PlayFab Client API
+
+GPGS
+1. Create project
+2. Upload APK
+3. Add GPGS services
+4. Link App > Android
+5. Add tester accounts
+
+PlayFab
+1. Add-ons > Google
+
+Unity 
+1. Add auth code
+2. Build and test
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_id">166262043182</string>
+<string name="package_name">com.playfab.BigOleSampleProject</string>
+</resources>

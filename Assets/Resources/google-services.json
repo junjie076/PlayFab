@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "185314558983",
+    "firebase_url": "https://lukenns-prototype.firebaseio.com",
+    "project_id": "lukenns-prototype",
+    "storage_bucket": "lukenns-prototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185314558983:android:df7a62bbd0a51935",
+        "android_client_info": {
+          "package_name": "com.Gameka.PrototypeTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185314558983-69bf7pqdm74prsskommhovi531rmbq0v.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "185314558983-er5esv5c6v2qek5nad9murttu549dhc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Gameka.PrototypeTest",
+            "certificate_hash": "533284098d405cd1eaf20c79f94705fade24caae"
+          }
+        },
+        {
+          "client_id": "185314558983-ukufd0j410cpu8jf6555rev3td3ai7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhUQ669SPNFfvwnuCjNlmhlmK07kS1Yc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185314558983-69bf7pqdm74prsskommhovi531rmbq0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
